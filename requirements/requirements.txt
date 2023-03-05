@@ -1,0 +1,12 @@
+sys
+re
+os
+PyQt5
+pymysql
+pyap
+LAC
+numpy
+pandas
+sklearn
+libsvm
+hashlib
